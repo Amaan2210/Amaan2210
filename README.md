@@ -106,8 +106,7 @@ Building AI-powered digital asset management for Fortune 500 clients including *
 ## 📈 GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amaan2210&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Amaan2210&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Amaan2210&theme=github-dark-blue&hide_border=true&exclude_days=Sun%2CSat" alt="GitHub Streak" height="165" />
 </div>
 
 <br/>
