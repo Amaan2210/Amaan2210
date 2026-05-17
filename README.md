@@ -1,12 +1,17 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=120&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=B4540A&height=120&section=header" width="100%"/>
 
 <div align="center">
-  
+
 # Amaan Khan
 
-[![LinkedIn](https://img.shields.io/badge/-amaan--khan--gsm-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amaan-khan-gsm)
+**Founding Engineer · Full-Stack AI Engineer · Enterprise AI Products**
+
+I ship AI-native products end-to-end for enterprise customers — design through deployment, solo.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-1A1A1A?style=for-the-badge&logo=safari&logoColor=white)](https://amaankhan63.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amaan-khan-gsm)
+[![X](https://img.shields.io/badge/-Amaan2210-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Amaan2210)
 [![Email](https://img.shields.io/badge/-amankhanak063-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amankhanak063@gmail.com)
-[![GitHub](https://img.shields.io/badge/-Amaan2210-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amaan2210)
 
 </div>
 
@@ -16,11 +21,11 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🎯 Currently
+### 🎯 Now
 
-**Software Developer** at **[Naya Studio](https://naya.studio)**
+**Founding Engineer** at **[Naya Studio](https://naya.studio)** — solo-built **[Cost Estimation](https://amaankhan63.github.io/work/cost-estimation)**, now in production and the foundation for client-specific forks at **MillerKnoll**, **Schneider Electric**, and **NAC**.
 
-Building AI-powered digital asset management for Fortune 500 clients including **Adidas** & **MillerKnoll**
+Also Founding Engineer on **Sustainability AI** (Beta 2026) — Carbon, Water, Plastic, and Energy analysis built on the same pipeline architecture.
 
 </td>
 <td width="50%" valign="top">
@@ -28,10 +33,12 @@ Building AI-powered digital asset management for Fortune 500 clients including *
 ### 📊 Impact
 
 ```
-✦ 50+ AI models integrated
-✦ 70% faster load times  
-✦ 6-figure ARR contribution
-✦ $2K/yr infrastructure savings
+✦ $500K+ signed enterprise contracts
+✦ 4,000+ estimations in production
+✦ $200K+ Adidas deal (Workflow platform)
+✦ 10 AI providers, 50+ models
+✦ 90% image-load improvement
+✦ 500MB+ memory reduction
 ```
 
 </td>
@@ -40,44 +47,52 @@ Building AI-powered digital asset management for Fortune 500 clients including *
 
 <br/>
 
-## 🔨 What I've Built
+## 🔨 Selected Work
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td align="center" width="25%" valign="top">
+<br/>
+<img src="https://img.icons8.com/fluency/48/calculator.png" width="40"/>
+<br/><br/>
+<strong>Cost Estimation</strong>
+<br/><br/>
+<sub>Solo-built · Founding Engineer<br/>$500K+ enterprise contracts<br/>4k+ runs in production</sub>
+<br/><br/>
+<a href="https://amaankhan63.github.io/work/cost-estimation">Read →</a>
+<br/><br/>
+</td>
+<td align="center" width="25%" valign="top">
 <br/>
 <img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" width="40"/>
 <br/><br/>
-<strong>AI Platform</strong>
-<br/>
-<sub>50+ models · Multi-provider · Dynamic switching</sub>
+<strong>Multi-provider AI</strong>
+<br/><br/>
+<sub>10 providers · 50+ models<br/>Custom Hunyuan 3D service<br/>$200K+ Adidas deal</sub>
+<br/><br/>
+<a href="https://amaankhan63.github.io/work/multi-provider-ai">Read →</a>
 <br/><br/>
 </td>
-<td align="center" width="25%">
+<td align="center" width="25%" valign="top">
 <br/>
 <img src="https://img.icons8.com/fluency/48/microsoft-office-2019.png" width="40"/>
 <br/><br/>
-<strong>WOPI Integration</strong>
-<br/>
-<sub>In-browser Office editing · Enterprise-grade</sub>
+<strong>WOPI for Adidas</strong>
+<br/><br/>
+<sub>In-platform Office editing<br/>Drive · SharePoint backends<br/>Enterprise rollout</sub>
+<br/><br/>
+<a href="https://amaankhan63.github.io/work/wopi-adidas">Read →</a>
 <br/><br/>
 </td>
-<td align="center" width="25%">
+<td align="center" width="25%" valign="top">
 <br/>
 <img src="https://img.icons8.com/fluency/48/synchronize.png" width="40"/>
 <br/><br/>
 <strong>Real-time Collab</strong>
-<br/>
-<sub>WebSockets · YJS · Conflict resolution</sub>
 <br/><br/>
-</td>
-<td align="center" width="25%">
-<br/>
-<img src="https://img.icons8.com/fluency/48/search--v1.png" width="40"/>
+<sub>WebSockets · YJS<br/>MongoDB Change Streams<br/>Sleep Mode · CAD ingest</sub>
 <br/><br/>
-<strong>Semantic Search</strong>
-<br/>
-<sub>AI summarization · Algolia · Smart indexing</sub>
+<a href="https://amaankhan63.github.io/work/realtime-collab">Read →</a>
 <br/><br/>
 </td>
 </tr>
@@ -93,33 +108,26 @@ Building AI-powered digital asset management for Fortune 500 clients including *
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+![Anthropic](https://img.shields.io/badge/Anthropic-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
 <br/>
 
-## 📈 GitHub
 <div align="center">
-  
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Amaan2210&theme=github-dark-blue&hide_border=true&exclude_days=Sun,Sat" alt="GitHub Streak Stats" />
-  
-</div>
 
-<br/>
+### 💬 Open to Founding-Engineer Roles at Seed/Series A AI Startups
 
-<div align="center">
-  
-### 💬 Let's build something together
-  
-<a href="mailto:amankhanak063@gmail.com">
-<img src="https://img.shields.io/badge/Get_in_touch-171717?style=for-the-badge"/>
+<a href="https://cal.com/amaan-khan/intro">
+<img src="https://img.shields.io/badge/Book_a_30--min_intro-B4540A?style=for-the-badge"/>
 </a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=B4540A&height=100&section=footer" width="100%"/>
