@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=B4540A&height=120&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=635BFF&height=120&section=header" width="100%"/>
 
 <div align="center">
 
@@ -51,46 +51,48 @@ Also Founding Engineer on **Sustainability AI** (Beta 2026) — Carbon, Water, P
 
 <table>
 <tr>
-<td align="center" width="25%" valign="top">
+<td align="center" width="50%" valign="top">
 <br/>
-<img src="https://img.icons8.com/fluency/48/calculator.png" width="40"/>
+<img src="https://img.icons8.com/fluency/48/calculator.png" width="52"/>
 <br/><br/>
 <strong>Cost Estimation</strong>
 <br/><br/>
-<sub>Solo-built · Founding Engineer<br/>$500K+ enterprise contracts<br/>4k+ runs in production</sub>
+<sub>Solo-built · Founding Engineer · $500K+ enterprise contracts · 4k+ runs in production</sub>
 <br/><br/>
 <a href="https://amaankhan63.github.io/work/cost-estimation">Read →</a>
 <br/><br/>
 </td>
-<td align="center" width="25%" valign="top">
+<td align="center" width="50%" valign="top">
 <br/>
-<img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" width="40"/>
+<img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" width="52"/>
 <br/><br/>
 <strong>Multi-provider AI</strong>
 <br/><br/>
-<sub>10 providers · 50+ models<br/>Custom Hunyuan 3D service<br/>$200K+ Adidas deal</sub>
+<sub>10 providers · 50+ models · Custom Hunyuan 3D service · $200K+ Adidas deal</sub>
 <br/><br/>
 <a href="https://amaankhan63.github.io/work/multi-provider-ai">Read →</a>
 <br/><br/>
 </td>
-<td align="center" width="25%" valign="top">
+</tr>
+<tr>
+<td align="center" width="50%" valign="top">
 <br/>
-<img src="https://img.icons8.com/fluency/48/microsoft-office-2019.png" width="40"/>
+<img src="https://img.icons8.com/fluency/48/microsoft-office-2019.png" width="52"/>
 <br/><br/>
 <strong>WOPI for Adidas</strong>
 <br/><br/>
-<sub>In-platform Office editing<br/>Drive · SharePoint backends<br/>Enterprise rollout</sub>
+<sub>In-platform Office editing · Drive &amp; SharePoint backends · Enterprise rollout</sub>
 <br/><br/>
 <a href="https://amaankhan63.github.io/work/wopi-adidas">Read →</a>
 <br/><br/>
 </td>
-<td align="center" width="25%" valign="top">
+<td align="center" width="50%" valign="top">
 <br/>
-<img src="https://img.icons8.com/fluency/48/synchronize.png" width="40"/>
+<img src="https://img.icons8.com/fluency/48/synchronize.png" width="52"/>
 <br/><br/>
 <strong>Real-time Collab</strong>
 <br/><br/>
-<sub>WebSockets · YJS<br/>MongoDB Change Streams<br/>Sleep Mode · CAD ingest</sub>
+<sub>WebSockets · YJS · MongoDB Change Streams · Sleep Mode · CAD ingestion</sub>
 <br/><br/>
 <a href="https://amaankhan63.github.io/work/realtime-collab">Read →</a>
 <br/><br/>
@@ -125,9 +127,9 @@ Also Founding Engineer on **Sustainability AI** (Beta 2026) — Carbon, Water, P
 ### 💬 Open to Founding-Engineer Roles at Seed/Series A AI Startups
 
 <a href="https://cal.com/amaan-khan/intro">
-<img src="https://img.shields.io/badge/Book_a_30--min_intro-B4540A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Book_a_30--min_intro-635BFF?style=for-the-badge"/>
 </a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=B4540A&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=635BFF&height=100&section=footer" width="100%"/>
